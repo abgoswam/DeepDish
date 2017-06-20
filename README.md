@@ -1,4 +1,4 @@
-# deepdish
+# DeepDish
 
 Deep Learning for Classifying Food Dishes.
 
